@@ -1,0 +1,26 @@
+.expense-item {
+    background-color: #004d40;
+    padding: 8px;
+    margin: 8px 0;
+}
+
+.expense-item .info {
+    display: inline-block;
+    padding: 0 16px;
+    width: 80%;
+}
+
+.expense-item .info p {
+    width: 100%;
+}
+
+.expense-item .title {
+    color: antiquewhite;
+    font-size: 24px;
+}
+
+.expense-item .price {
+    float: right;
+    background-color: #b2dfdb;
+    padding: 4px 8px;
+}
